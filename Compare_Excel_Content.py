@@ -1,5 +1,4 @@
 #KonstTz
-#rjshanahan@gmail.com
 #23 July 2019
 
 import openpyxl
