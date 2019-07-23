@@ -63,6 +63,6 @@ if __name__ == "__main__":
     not_found_list = serach_for_content(searching_for, searching_in)
 
     if len(not_found_list) == 0 : 
-        print(bcolors.OKGREEN,'Data was completelly checked. Every server was found',bcolors.ENDC)
+        print(bcolors.OKGREEN,'Data was completelly checked. Every value was found',bcolors.ENDC)
     else:
         print_data(not_found_list)
